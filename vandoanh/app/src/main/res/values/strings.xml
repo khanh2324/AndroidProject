@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">vandoanh</string>
+    <string-array name="list_EN">
+        <item>KPI</item>
+        <item>Product</item>
+        <item>Other income</item>
+        <item>Other deductions</item>
+        <item>Sales</item>
+
+        <item>pension</item>
+        <item>base salary</item>
+        <item>minimum wage</item>
+        <item>Salary increase</item>
+        <item>Payroll</item>
+        <item>Get Paid Late</item>
+        <item>Get Paid Early</item>
+        <item>salary advance</item>
+        <item>Slow Salary</item>
+        <item>Salary boom</item>
+        <item>Wage cut</item>
+        <item>Pay day</item>
+        <item>Hourly salary</item>
+        <item>Monthly salary</item>
+        <item>Quarterly salary</item>
+        <item>Annual salary</item>
+        <item>Wage</item>
+        <item>Laborer</item>
+        <item>Staff</item>
+        <item>allowance</item>
+        <item>severance pay</item>
+        <item>night work wages</item>
+        <item>Overtime pay system</item>
+        <item>The salary regime is on hold</item>
+        <item>wage scale</item>
+
+    </string-array>
+    <string-array name="list_VN">
+        <item>KPI</item>
+        <item>Sản phẩm</item>
+        <item>Thu nhập khác</item>
+        <item>Khấu trừ khác</item>
+        <item>Doanh số</item>
+        <item>lương hưu</item>
+        <item>lương cơ sở</item>
+        <item> lương tối thiểu</item>
+        <item>Tăng lương</item>
+        <item>Bảng lương</item>
+        <item>Nhận lương Muộn</item>
+        <item>Nhận lương Sớm</item>
+        <item>ứng lương</item>
+        <item>Chậm Lương</item>
+        <item>Bùng lương</item>
+        <item>Giảm Lương</item>
+        <item>Lương ngày </item>
+        <item>Lương giờ </item>
+        <item>Lương tháng</item>
+        <item>Lương quý</item>
+        <item>Lương năm</item>
+        <item>Tiền công</item>
+        <item>Người Lao Động</item>
+        <item>Nhân viên</item>
+        <item>phụ cấp</item>
+        <item>lương ngừng việc</item>
+        <item>tiền lương làm việc vào ban đêm</item>
+        <item>Chế độ tiền lương làm thêm giờ</item>
+        <item>Chế độ tiền lương bị tạm giữ</item>
+        <item>thang lương</item>
+
+
+
+    </string-array>
+    <string-array name="list_IMG">
+        <item>mot</item>
+        <item>hai</item>
+        <item>ba</item>
+        <item>bon</item>
+        <item>nam</item>
+        <item>sau</item>
+        <item>bay</item>
+        <item>tam</item>
+        <item>chin</item>
+        <item>muoi</item>
+        <item>muoimot</item>
+        <item>muoihai</item>
+        <item>muoiba</item>
+        <item>muoibon</item>
+        <item>muoinam</item>
+        <item>muoisau</item>
+        <item>muoibay</item>
+        <item>muoitam</item>
+        <item>muoichin</item>
+        <item>haimuoi</item>
+        <item>haimot</item>
+        <item>haihai</item>
+        <item>haiba</item>
+        <item>haitu</item>
+        <item>hainam</item>
+        <item>haisau</item>
+        <item>haibay</item>
+        <item>haitam</item>
+        <item>haichin</item>
+        <item>bamuoi</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">TỪ ĐIỂN ANH VIỆT</string>
+    <string-array name="list_EN">
+        <item>Running </item>
+        <item>Stomping</item>
+        <item>Aerial</item>
+        <item>Grounding</item>
+        <item>Running Track</item>
+        <item>Sand Pit</item>
+        <item>Electronic Device</item>
+        <item>Outfits</item>
+        <item>Jump far</item>
+        <item>Athletics</item>
+        <item>Power</item>
+        <item>Athletes</item>
+        <item>Three Step Jump</item>
+        <item>High jump</item>
+        <item>Grounding</item>
+        <item>Olympic</item>
+        <item>Charts</item>
+        <item>Tool</item>
+        <item>Medal</item>
+        <item>Physical</item>
+        <item>Win</item>
+        <item>Trainer</item>
+        <item>Striker</item>
+        <item>Jump Angle</item>
+        <item>Speed</item>
+        <item>Experience</item>
+        <item>Achievements</item>
+        <item>Stadium</item>
+        <item>Audiences</item>
+        <item>Sitting  Jump</item>
+        <item>jump torso</item>
+
+
+
+    </string-array>
+    <string-array name="list_VN">
+        <item>Chạy Đà</item>
+        <item>Dậm nhảy</item>
+        <item>Kĩ Thuật Trên Không</item>
+        <item>Kĩ Thuật Tiếp Đất</item>
+        <item>Đường Chạy</item>
+        <item>Hố Cát</item>
+        <item>Thiết Bị Điện Tử</item>
+        <item>Trang Phục </item>
+        <item>Nhảy Xa</item>
+        <item>Điền Kinh</item>
+        <item>Sức Mạnh</item>
+        <item>Vận Động Viên</item>
+        <item>Nhảy Ba Bước</item>
+        <item>Nhảy Cao</item>
+        <item>Tiếp Đất</item>
+        <item>Thế Vận Hội</item>
+        <item>Bảng Xếp Hạng</item>
+        <item>Dụng Cụ</item>
+        <item>Huy Chương</item>
+        <item>Thể Lực</item>
+        <item>Chiến Thắng</item>
+        <item>Huấn Luyện Viên</item>
+        <item>Ván Dậm</item>
+        <item>Góc Nhảy</item>
+        <item>Tốc Độ</item>
+        <item>Kinh Nghiệm</item>
+        <item>Thành Tích</item>
+        <item>Sân Thi Đấu</item>
+        <item>Khán Giả</item>
+        <item>Nhảy Xa Kiểu Ngồi</item>
+        <item>Nhảy Xa Kiểu Ưỡn Thân</item>
+
+
+    </string-array>
+    <string-array name="list_AM">
+        <item>/ˈrʌnɪŋ məˈmen.təm/:</item>
+        <item>/ˈstɒmp/:</item>
+        <item>/ˈɡraʊn.dɪŋ/:</item>
+        <item>/ˈeə.ri.əl/:</item>
+        <item>/ˈrʌn.ɪŋ/:</item>
+        <item>/ˈsænd/:</item>
+        <item>/ˈel.ekˈtrɒn.ɪk /:</item>
+        <item>/ˈaʊt.fɪt/:</item>
+        <item>/ˈæθˈlet.ɪks/:</item>
+        <item>/ˈpaʊər/:</item>
+        <item>/ˈæθ.liːt/:</item>
+        <item>/ˈhaɪ ˌdʒʌmp/:</item>
+        <item>/ˈəˈlɪm.pɪk/:</item>
+        <item>/ˈtʃɑːt/:</item>
+        <item>/ˈtuːl:</item>
+        <item>/ˈmed.əl/:</item>
+        <item>/ˈfɪz.ɪ.kəl/:</item>
+        <item>/ˈwɪn/:</item>
+        <item>/ˈtreɪ.nər/:</item>
+        <item>/dʒʌmp æŋ.ɡə/:</item>
+        <item>/ˈspiːd/:</item>
+        <item>/ɪkˈspɪə.ri.əns/:</item>
+        <item>/ˈəˈtʃiːv.mənt/:</item>
+        <item>/ˈsteɪ.di.əm/:</item>
+        <item>/ˈɔː.di.əns/:</item>
+        <item>/ spɪt/:</item>
+        <item>/taɪm/:</item>
+        <item>/ju(ː)ˈtɪlɪti ruːm/:</item>
+        <item>/ˈtɛrəs ɔː ˈpætɪəʊ/:</item>
+        <item>/ˈtɔɪ.lət/:</item>
+        <item>/laʊndʒ/:</item>
+        <item>hōm:</item>
+    </string-array>
+    <string-array name="list_IMG">
+        <item>running</item>
+        <item>stomping</item>
+        <item>aerial</item>
+        <item>grounding</item>
+        <item>running_track</item>
+        <item>sand_pit</item>
+        <item>electronic_device</item>
+        <item>outfits</item>
+        <item>jump_far</item>
+        <item>athletics</item>
+        <item>power</item>
+        <item>athletes</item>
+        <item>three_step_jump</item>
+        <item>high_jump</item>
+        <item>grounding</item>
+        <item>olympic</item>
+        <item>charts</item>
+        <item>tool</item>
+        <item>medal</item>
+        <item>physical</item>
+        <item>win</item>
+        <item>trainer</item>
+        <item>striker</item>
+        <item>jump_Angle</item>
+        <item>speed</item>
+        <item>experience</item>
+        <item>achievements</item>
+        <item>stadium</item>
+        <item>audiences</item>
+        <item>sitting_jump</item>
+        <item>jump_torso</item>
+
+    </string-array>
+
+
+</resources>

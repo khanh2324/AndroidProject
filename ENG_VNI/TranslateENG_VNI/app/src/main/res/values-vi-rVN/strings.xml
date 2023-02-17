@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translate ENG_VNI</string>
+
+    <string-array name="list_VN">
+        <item>Can ho</item>
+        <item>Ngôi nhà</item>
+        <item>Biệt thự</item>
+        <item>Buồng</item>
+        <item>Căn hộ 1 tầng</item>
+        <item>Căn hộ đắt tiền</item>
+        <item>Căn hộ sở hữu chung một nhóm người</item>
+        <item>Nhà ở vùng nông thôn</item>
+        <item>Chung cư</item>
+        <item>Nhà gỗ một tầng</item>
+        <item>Phòng gác mái</item>
+        <item>Ban công</item>
+        <item>Tầng hầm để ở</item>
+        <item>Phòng tắm</item>
+        <item>Phòng ngủ</item>
+        <item>Hầm chứa</item>
+        <item>Phòng ăn</item>
+        <item>Nhà để xe</item>
+        <item>Vườn</item>
+        <item>Phòng lớn</item>
+        <item>Nhà ăn</item>
+        <item>Chiếu nghỉ</item>
+        <item>Nhà vệ sinh</item>
+        <item>Phòng khách</item>
+        <item>Nhà kho</item>
+        <item>Phòng học</item>
+        <item>Nhà biệt lập</item>
+        <item>Phòng tiện ích</item>
+        <item>Mái hiên</item>
+        <item>Phòng vệ sinh</item>
+        <item>Phòng chờ</item>
+
+
+    </string-array>
+
+</resources>
